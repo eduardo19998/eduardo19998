@@ -2,3 +2,6 @@
 
 ## acerca de mi 
 hola! soy un apasioado programador web con un aprendizaje en java scrip, lengiaje html , css  estoy esforzando para aprender todo el conocimiento acerca de estos lenguajes con el fin de tener un trabajo a futuro bien remunerado.
+
+### contactame
+llamen ahora llamen ya aqui se encuentra un buen trabajador
