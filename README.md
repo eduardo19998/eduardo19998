@@ -5,3 +5,8 @@ hola! soy un apasioado programador web con un aprendizaje en java scrip, lengiaj
 
 ### contactame
 llamen ahora llamen ya aqui se encuentra un buen trabajador
+
+## languajes
+- english
+- spanish
+- portugues
